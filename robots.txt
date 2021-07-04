@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://cuitianyu20.github.io/sitemap.xml
