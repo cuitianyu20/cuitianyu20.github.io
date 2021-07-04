@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post on Seismic Blog</title>
+    <link>http://cuitianyu20.github.io/tags/post/</link>
+    <description>Recent content in post on Seismic Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 02 Jul 2021 20:39:16 +0800</lastBuildDate><atom:link href="http://cuitianyu20.github.io/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Post</title>
+      <link>http://cuitianyu20.github.io/post/new-post/</link>
+      <pubDate>Fri, 02 Jul 2021 20:39:16 +0800</pubDate>
+      
+      <guid>http://cuitianyu20.github.io/post/new-post/</guid>
+      <description>Hello World!! 2020</description>
+    </item>
+    
+  </channel>
+</rss>
